@@ -1,7 +1,11 @@
 /*  your css code here. If applicable */
-
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
 .container{
-	   margin:170px;
+	   margin:25% 25% 25% 25%;
 	   width:50%;
 	   height:200px;
 	   display:block;

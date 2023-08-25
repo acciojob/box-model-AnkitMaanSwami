@@ -5,6 +5,7 @@
 	box-sizing:border-box;
 }
 .container{
+	   padding:auto;
 	   margin:25% 25% 25% 25%;
 	   width:50%;
 	   height:200px;
@@ -35,5 +36,5 @@
 	 background:red;
 }
 .main{
-	padding:75px;
+	padding:75px 90px 75px 90px;
 }

@@ -1,9 +1,5 @@
 /*  your css code here. If applicable */
-*{
-	margin:0px;
-	padding:0px;
-	box-sizing:border-box;
-}
+
 .container{
 	   margin:170px;
 	   width:50%;
